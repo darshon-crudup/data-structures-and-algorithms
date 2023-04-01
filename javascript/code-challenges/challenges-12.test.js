@@ -2,7 +2,6 @@
 
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 1 - Review
-
 Write a function named replaceZeros that, given a string, uses Regex to replace all '0' with the word 'zero'.
 ------------------------------------------------------------------------------------------------ */
 
@@ -18,8 +17,7 @@ const replaceZeros = (string) => {
 
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 2
-
-Write a function named validatePin that uses a regular expression pattern to validate a PIN.
+dWrite a function named validatePin that uses a regular expression pattern to validate a PIN.
 
 If the PIN is four numerical digits long, return true. Otherwise, return false.
 ------------------------------------------------------------------------------------------------ */
